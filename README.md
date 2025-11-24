@@ -23,14 +23,3 @@ This project is designed to analyze and visualize retail sales data. It provides
    source venv/bin/activate
    pip install -r requirements.txt
    ```
-
-## Usage
-- Place your raw sales data in the appropriate data directory.
-- Run the analysis scripts as described in the script documentation.
-- View the generated reports and visualizations in the output directory.
-
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request for improvements or bug fixes.
-
-## License
-This project is licensed under the MIT License.
